@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  {{ include('head.twig') }}
+  {{ include('mathjax.twig') }}
+
+</head>
+
+
+<body>
+<div class="layout">
+	<div id="header">
+	  {% if meta.image %}
+	    <img src="{{ meta.image|url }}">
+    {% else %}
+      <img src="{{ theme_url }}/assets/fff.png">
+    {% endif %}
+		<a href="{{ "index"|link }}">{{ site_title|raw }}</a>
+	</div>
+	<div class="wrapper">
+	<div id="navbar">
+		<ul class="nav">
+      <li><a href="{{ base_url }}"> &laquo; Go to top </a></li> 
+      <li><a href="{{ previous_page.url }}"> &laquo; Go to previous </a></li>
+		</ul>
+	</div>
+	<div id="content">
+		<div class="inner">
+			{{ content }}
+		</div>
+	</div>
+  </div>
+</div> 
+</body>
+</html>

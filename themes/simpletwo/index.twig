@@ -1,0 +1,30 @@
+<html>
+<head>
+  {{ include('head.twig') }}
+</head>
+
+
+<body>
+<div class="layout">
+	<div id="header">
+		<a href="{{ "index"|link }}">{{ site_title | raw }}</a>
+	</div>
+  <div class="wrapper">
+	<div id="navbar">
+		<ul class="nav">
+			{% for page in pages %}
+				<li{% if page.id == current_page.id %} id="active"{% endif %}>
+					<a href="{{ page.url }}">{{ page.title }} {% if page.id == current_page.id %} &laquo; {% endif %}</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div id="content">
+		<div class="inner">
+			{{ content }}
+		</div>
+	</div>
+	</div>
+</div> 
+</body>
+</html>

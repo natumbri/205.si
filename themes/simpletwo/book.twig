@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ include('head.twig') }}
+</head>
+
+
+<body>
+<div class="layout">
+	<div id="header">
+	  {% if meta.image %}
+	    <img src="{{ meta.image|url }}">
+    {% else %}
+      <img src="{{ theme_url }}/assets/fff.png">
+    {% endif %}
+   <a href="{{ "index"|link }}">{{ site_title|raw }}</a>
+  </div>
+	<div class="wrapper">
+	<div id="navbar">
+		<ul class="nav">
+			{% for page in pages %}
+			   {% if page.meta.toc  == "section" %}	
+				<li{% if page.id == current_page.id %} id="active"{% endif %}>
+				  <a href="{{ page.url }}">{{ page.title }} {% if page.id == current_page.id %} &laquo; {% endif %}</a>
+				</li>
+			   {% endif  %}
+			{% endfor %}
+		
+		<hr color="#ccc" width="20%" align="right">
+			{% for page in pages %}
+			   {% if page.meta.template  == "blog" %}	
+				<li{% if page.id == current_page.id %} id="active"{% endif %}>
+				  <a href="{{ page.url }}">{{ page.title }} {% if page.id == current_page.id %} &laquo; {% endif %}</a>
+				</li>
+			   {% endif  %}
+			{% endfor %}
+
+		<hr color="#ccc" width="20%" align="right">
+                        {% for page in pages %}
+                           {% if page.meta.toc  == "appendix" %}
+                                <li{% if page.id == current_page.id %} id="active"{% endif %}>
+                                  <a href="{{ page.url }}">{{ page.title }} {% if page.id == current_page.id %} &laquo; {% endif %}</a>
+                                </li>
+                           {% endif  %}
+                        {% endfor %}
+
+		</ul>
+
+	</div>
+	<div id="content">
+		<div class="inner">
+			{{ content }}
+		</div>
+	</div>
+  </div>
+</div> 
+</body>
+</html>

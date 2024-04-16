@@ -1,0 +1,12 @@
+<meta charset="utf-8" />
+
+{{ include('favicon.twig') }}
+
+<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title | raw }}</title>
+{% if meta.description %}
+    <meta name="description" content="{{ meta.description|striptags }}">
+{% endif %}{% if meta.robots %}
+    <meta name="robots" content="{{ meta.robots }}">
+{% endif %}
+
+<link rel="stylesheet" href="{{ theme_url }}/css/style.css" type="text/css">

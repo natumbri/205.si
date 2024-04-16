@@ -1,0 +1,44 @@
+<html>
+<head>
+  {{ include('head.twig') }}
+</head>
+
+
+<body>
+<div class="layout">
+	<div id="header">
+	  {% if meta.image %}
+	    <img src="{{ meta.image|url }}">
+    {% else %}
+      <img src="{{ theme_url }}/assets/fff.png">
+    {% endif %}
+		<a href="{{ "index"|link }}">{{ site_title |raw}}</a>
+	</div>
+  <div class="wrapper">
+	<div id="navbar">
+		<ul class="nav">
+			<li>
+				<a href="{{ base_url }}"> &laquo; Go to top </a>
+			</li>
+		</ul>
+	</div>
+	<div id="content">
+		<div class="inner">
+			{{ content }}
+			{% for page in pages|sort_by("time")|reverse %}
+          {% if page.id starts with "blog/" and not page.hidden %}
+              <div class="post">
+                  <h4>
+                    <span class="date">{{ page.date_formatted }}&emsp;</span>
+                    <a href="{{ page.url }}">{{ page.title }}</a>
+                  </h4>
+                  <p class="excerpt">{{ page.description }}</p>
+              </div>
+          {% endif %}
+      {% endfor %}
+		</div>
+	</div>
+	</div>
+</div> 
+</body>
+</html>

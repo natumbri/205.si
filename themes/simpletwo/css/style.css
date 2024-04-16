@@ -1,0 +1,233 @@
+/*=================================*/
+/* Pico Default Theme
+/* By: Gilbert Pellegrom
+/* http: //dev7studios.com
+/*=================================*/
+
+@font-face {
+	font-family: 'OpenSansBold';
+	src: url('../font/SourceSansPro-Bold.ttf');
+}
+@font-face {
+	font-family: 'OpenSansLight';
+	src: url('../font/SourceSansPro-Light.ttf');
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    line-height: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.7em;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 2em;
+}
+
+p, table {
+    margin-bottom: 1em;
+}
+
+ol, ul {
+    padding-left: 30px;
+    margin-bottom: 1em;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+i, em {
+    font-style: italic;
+}
+
+u {
+    text-decoration: underline;
+}
+
+abbr, acronym {
+    cursor: help;
+    border-bottom: 0.1em dotted;
+}
+
+/*
+td, td img {
+    vertical-align: top;
+}
+
+td, th {
+    border: solid 1px #999;
+    padding: 0.25em 0.5em;
+} 
+
+th {
+    font-weight: bold;
+    text-align: center;
+    background: #eee;
+}
+*/
+
+/*** TABLES ***/
+
+table { 
+  border-spacing: 0; 
+}
+
+td, th {
+    padding: 0.4em 1em;
+    vertical-align: top;
+}
+th {
+    font-weight: bold;
+    text-align: center;
+    background: #f5f5f5;
+    color: #333;
+}
+
+
+
+td, th {                                         border: 1px solid #ccc; }
+tr:not(:last-child) td, tr:not(:last-child) th { border-bottom: 0 none; }
+thead tr:last-child th {                         border-bottom: 0 none; }
+td:not(:last-child), th:not(:last-child) {       border-right: 0 none; }
+
+tr:first-child td:first-child, tr:first-child th:first-child { border-top-left-radius: 0.3em; }
+tr:first-child td:last-child, tr:first-child th:last-child {   border-top-right-radius: 0.3em; }
+tbody tr:last-child td:first-child {                           border-bottom-left-radius: 0.3em; }
+tbody tr:last-child td:last-child {                            border-bottom-right-radius: 0.3em; }
+table thead + tbody tr:first-child td {                        border-radius: 0 !important; }
+
+.table-responsive { overflow-x: auto; }
+.table-responsive > table { margin-bottom: 0; }
+
+.wrapper {
+  display: flex;
+}
+
+tbody>tr>*:nth-last-child(2)~*{ width:50%}
+tbody>tr>*:nth-last-child(3)~*{ width:33.3%}
+tbody>tr>*:nth-last-child(4)~*{ width:25%}
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+code {
+    font-family: Courier, "Courier New", Monaco, Tahoma;
+    background: #eee;
+    color: #333;
+    padding: 0px 2px;
+}
+
+pre {
+    background: #eee;
+    padding: 20px;
+    margin-bottom: 1em;
+    overflow: auto;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 0 0 1em 15px;
+    padding-left: 10px;
+    border-left: 5px solid #dddddd;
+    width: 90%;
+}
+
+#header {
+	font-family: "OpenSansBold";
+	font-size: 5em;
+	padding: 2% 2% 2% 16%;
+}
+
+#header a {
+	text-decoration:none;
+	color: #000;
+	font-weight: bold;
+}
+
+#header img {
+  height: auto;
+  width: 1.6em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#content {
+	font-family: "OpenSansLight";
+	padding: 2% 2% 2% 2%;   /* changed from 24% */
+	height:auto;
+	min-height:300px;
+	float: left;
+	width: 70%;
+}
+.inner {
+        width: 85%;
+    }
+   
+.inner img {
+        width:100%;
+    }
+#navbar {
+	font-family: "OpenSansLight";
+	float: left;
+	width: 25%;  /* changed from 20% */
+	line-height:2em;
+	border-right: 2px solid #d8d8d8;
+	height: 70vh;
+	min-height:300px;
+	text-align:right;
+	padding-right: 15px;
+	padding-top: 30px;
+	position: sticky;
+	top: 0;
+}
+
+#navbar ul {
+	list-style-type:none;
+}
+#navbar a {
+	text-decoration:none;
+	color: #000
+}
+
+#footer {
+	font-family: "OpenSansLight";
+	font-size: smaller;
+	padding-left: 3%;
+	clear: both;
+	color: #4d4d4d;
+}
+
+img { width: 98%;
+    padding-right: 1px;
+  	padding-left: 0;
+}
+img.half { width: 48%; }
+img.quarter { width: 24%; }
+img.fifth { width: 19%; }
+img.tenth { width: 10%; }
+
+img.small { width: 75%; }
+img.halfsmall { width: 37.25%;}
+
+img.table { width: 90%; }
+img.halftable { width: 44.75%;}
+img.thirdtable { width: 29.75%;}
+
+table { width: 90%; }
+table.small { width: 75%; }
+table.xsmall { width: 50%; }

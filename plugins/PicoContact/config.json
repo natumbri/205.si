@@ -1,0 +1,31 @@
+{
+    "default_email": "natumbri@gmail.com",
+    "lang": "",
+    "message_len": "",
+    "default_params": "VIN!,State!,Rego_number!,Description!,Registration_Status!,Colour!,Transmssion!,Notes,URL",
+    "separator": ",",
+    "logs_count": "10",
+    "checklist": [
+        {
+            "name": "",
+            "type": "blacklist",
+            "content": ""
+        },
+        {
+            "name": "",
+            "type": "blacklist",
+            "content": ""
+        },
+        {
+            "name": "",
+            "type": "blacklist",
+            "content": ""
+        }
+    ],
+    "use_honeypot": "on",
+    "min_sec_after_load": "3",
+    "min_sec_between_posts": "5",
+    "max_posts_by_hour": "10",
+    "recaptcha_public_key": "",
+    "recaptcha_secret_key": ""
+}

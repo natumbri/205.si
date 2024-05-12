@@ -11,10 +11,12 @@ desktop.ini
 ._*
 
 # Composer
-/composer.phar
-/vendor
+# /composer.phar
+# /vendor
+
 assets/library/H306.pdf
 assets/library/Peugeot-306 93-02-Haynes-Manual-EN [BM].pdf
+assets/library/rt306.zip
 assets/205si-internal.zip
 assets/205si-external.zip
 

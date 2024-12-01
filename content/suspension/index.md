@@ -46,7 +46,7 @@ The GTI beam has go fast yellow paint on the main tube and the Si is black. The 
 See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm, for the seal. That’s fitted with a different tool.[^21]   
 
 [![](%assets_url%/suspension/bearing-removal-tool-diagram.png){.quarter}](%assets_url%/suspension/bearing-removal-tool-diagram.png)[^27]
-[![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}](%assets_url%/suspension/bearing-removal-tool-pic.jpg)[^24]
+[![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}](%assets_url%/suspension/bearing-removal-tool-pic.jpg)[^24]    
 [![](%assets_url%/suspension/mandrel-diagram.png){.quarter}](%assets_url%/suspension/mandrel-diagram.png)[^26]
 [![](%assets_url%/suspension/mandrel-pic2.jpg){.quarter}](%assets_url%/suspension/mandrel-pic2.jpg)[^25]
 

@@ -38,15 +38,17 @@ As long as you use [uprated] plastic bushes [...], I haven't noticed any differe
 ## Rear suspension   
 #### rear beam   
 The GTI beam has go fast yellow paint on the main tube and the Si is black. The main tube is a different diameter.[^11]  The diameter of rear beam main tubes in the widest middle section (approx only):  GTI beams are 64mm, Si beam is 59-60mm.[^12]   
-[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}](%assets_url%/suspension/haynesmanual-rear-beam.jpg)   
+
+##### 205 GTi rear beam    
+[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}](%assets_url%/suspension/haynesmanual-rear-beam.jpg)[^23]   
 
 ##### rear beam rebuild advice
-See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm,  for the seal. That’s fitted with a different tool.[^21]   
+See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm, for the seal. That’s fitted with a different tool.[^21]   
 
-![](%assets_url%/suspension/bearing-removal-tool-diagram.png){.quarter}
-![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}
-![](%assets_url%/suspension/mandrel-diagram.png){.quarter}
-![](%assets_url%/suspension/mandrel-pic1.jpg){.quarter}
+[![](%assets_url%/suspension/bearing-removal-tool-diagram.png){.quarter}](%assets_url%/suspension/bearing-removal-tool-diagram.png)[^27]
+[![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}](%assets_url%/suspension/bearing-removal-tool-pic.jpg)[^24]
+[![](%assets_url%/suspension/mandrel-diagram.png){.quarter}](%assets_url%/suspension/mandrel-diagram.png)[^26]
+[![](%assets_url%/suspension/mandrel-pic2.jpg){.quarter}](%assets_url%/suspension/mandrel-pic2.jpg)[^25]
 
 #### torsion bars
 Torsion bars are 18.5mm diameter on the Si. [^1] 205 bars are 992mm long with 23mm dia at one end (30 splines) & 25mm at the other (32 splines); splines are 25mm & 27mm wide making the effective bar length 940mm[^20]    
@@ -93,3 +95,8 @@ You can just throw in some 306 XSi or GTi6 rear shocks. They bolt right in and a
 [^20]: https://www.205gtidrivers.com/forums/topic/94628-technical-drawings-of-the-205-torsion-bars/?do=findComment&comment=849617
 [^21]: https://www.205gtidrivers.com/forums/topic/173080-rear-beam-rebuild-advice/
 [^22]: https://www.aussiefrogs.com/forum/index.php?threads/peugeot-306-front-struts-original-oem-parts-sydney.150862/post-1817699
+[^23]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545792
+[^24]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545484
+[^25]: https://www.205gtidrivers.com/forums/topic/173080-rear-beam-rebuild-advice/?do=findComment&comment=1523590
+[^26]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545462
+[^27]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545463

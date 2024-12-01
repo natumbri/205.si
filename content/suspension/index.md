@@ -38,10 +38,15 @@ As long as you use [uprated] plastic bushes [...], I haven't noticed any differe
 ## Rear suspension   
 #### rear beam   
 The GTI beam has go fast yellow paint on the main tube and the Si is black. The main tube is a different diameter.[^11]  The diameter of rear beam main tubes in the widest middle section (approx only):  GTI beams are 64mm, Si beam is 59-60mm.[^12]   
-[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg)](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}
+[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg)](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}   
 
 ##### rear beam rebuild advice
-See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm,  for the seal. That’s fitted with a different tool.[^21]
+See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm,  for the seal. That’s fitted with a different tool.[^21]   
+
+![](%assets_url%/suspension/bearing-removal-tool-diagram.png){.quarter}
+![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}
+![](%assets_url%/suspension/mandrel-diagram.png){.quarter}
+![](%assets_url%/suspension/mandrel-pic1.jpg){.quarter}
 
 #### torsion bars
 Torsion bars are 18.5mm diameter on the Si. [^1] 205 bars are 992mm long with 23mm dia at one end (30 splines) & 25mm at the other (32 splines); splines are 25mm & 27mm wide making the effective bar length 940mm[^20]    

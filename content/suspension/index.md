@@ -38,7 +38,7 @@ As long as you use [uprated] plastic bushes [...], I haven't noticed any differe
 ## Rear suspension   
 #### rear beam   
 The GTI beam has go fast yellow paint on the main tube and the Si is black. The main tube is a different diameter.[^11]  The diameter of rear beam main tubes in the widest middle section (approx only):  GTI beams are 64mm, Si beam is 59-60mm.[^12]   
-[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg)](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}   
+[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}](%assets_url%/suspension/haynesmanual-rear-beam.jpg)   
 
 ##### rear beam rebuild advice
 See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm,  for the seal. That’s fitted with a different tool.[^21]   

@@ -39,16 +39,23 @@ As long as you use [uprated] plastic bushes [...], I haven't noticed any differe
 #### rear beam   
 The GTI beam has go fast yellow paint on the main tube and the Si is black. The main tube is a different diameter.[^11]  The diameter of rear beam main tubes in the widest middle section (approx only):  GTI beams are 64mm, Si beam is 59-60mm.[^12]   
 
-##### 205 GTi rear beam    
-[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}](%assets_url%/suspension/haynesmanual-rear-beam.jpg)[^23]   
+##### rear beam components    
+[![](%assets_url%/suspension/haynesmanual-rear-beam.jpg){.quarter}](%assets_url%/suspension/haynesmanual-rear-beam.jpg)[^23]
+[![](%assets_url%/suspension/rear-beam-parts.jpg){.quarter}](%assets_url%/suspension/rear-beam-parts.jpg)[^29]
+[![](%assets_url%/suspension/rear-beam-fitting.jpg){.quarter}](%assets_url%/suspension/rear-beam-fitting.jpg)[^30]   
 
 ##### rear beam rebuild advice
-See bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm, for the seal. That’s fitted with a different tool.[^21]   
+Use a home-made bearing fitting tool/mandrel. The inner bearing is 210mm from the outside of the tube; the outer is recessed by 5mm, for the seal. That’s fitted with a different tool.[^21]   
 
 [![](%assets_url%/suspension/bearing-removal-tool-diagram.png){.quarter}](%assets_url%/suspension/bearing-removal-tool-diagram.png)[^27]
 [![](%assets_url%/suspension/bearing-removal-tool-pic.jpg){.quarter}](%assets_url%/suspension/bearing-removal-tool-pic.jpg)[^24]    
 [![](%assets_url%/suspension/mandrel-diagram.png){.quarter}](%assets_url%/suspension/mandrel-diagram.png)[^26]
-[![](%assets_url%/suspension/mandrel-pic2.jpg){.quarter}](%assets_url%/suspension/mandrel-pic2.jpg)[^25]
+[![](%assets_url%/suspension/mandrel-pic2.jpg){.quarter}](%assets_url%/suspension/mandrel-pic2.jpg)[^25]   
+
+
+A more agricultural mandrel, made from an old shaft. Turns out the 1 7/8" stainless exhaust pipe is a perfect fit on the shaft and a fraction smaller than the inner bearing. Uses a piece cut from the old arm as a stop and pressed on, then a couple of welds on everything to hold it in place. Pretty agricultural but puts the bearing in to the required depth.   
+
+[![](%assets_url%/suspension/other-mandrel.jpg){.quarter}](%assets_url%/suspension/other-mandrel.jpg)[^28]   
 
 #### torsion bars
 Torsion bars are 18.5mm diameter on the Si. [^1] 205 bars are 992mm long with 23mm dia at one end (30 splines) & 25mm at the other (32 splines); splines are 25mm & 27mm wide making the effective bar length 940mm[^20]    
@@ -100,3 +107,6 @@ You can just throw in some 306 XSi or GTi6 rear shocks. They bolt right in and a
 [^25]: https://www.205gtidrivers.com/forums/topic/173080-rear-beam-rebuild-advice/?do=findComment&comment=1523590
 [^26]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545462
 [^27]: https://www.205gtidrivers.com/forums/topic/176202-rear-beam-bearing-install-tool/?do=findComment&comment=1545463
+[^28]: https://www.aussiefrogs.com/forum/index.php?threads/205-si-xt.151016/post-1821082
+[^29]: https://www.aussiefrogs.com/forum/index.php?threads/205-si-xt.151016/post-1821081
+[^30]: https://www.aussiefrogs.com/forum/index.php?threads/205-si-xt.151016/post-1821084

@@ -16,7 +16,7 @@ You can bolt on brakes from a [base model 306](/brakes/205v306) (ie, 1.8l, 8 val
 
   
 Other similar (and in many cases, newer) options include 
-- vented Bosch 247mm rotors and calipers from, for example, a 1.6l 4 door 206[^4] <br> ![](%assets_url%/brakes/206caliper.jpg){.halfsmall} ![](%assets_url%/brakes/206caliper_cu.jpg){.halfsmall}
+- vented Bosch 247mm rotors and calipers from, for example, a 1.6l 4 door 206[^4] or a 206 with a 1.4l TU3JP (KFW)<br> ![](%assets_url%/brakes/206caliper.jpg){.halfsmall} ![](%assets_url%/brakes/206caliper_cu.jpg){.halfsmall}
 - calipers and 266mm discs from a Peugeot 306 XSi/HDi (shown here on a 205 GTi) [^8] <br> ![](%assets_url%/brakes/266brake.jpg){.small}   
 - vented Bosch 266mm rotors and calipers from later model PSA vehicles: base 207, 206 GTi, Berlingo, Xsara etc[^3][^11]<br> ![](%assets_url%/brakes/266mm-calipers[cropped].jpg){.small}  
 

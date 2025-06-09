@@ -1,6 +1,8 @@
 ---
 Title: Red 205 Si — Reliable Auto Runabout
-Order: 1
+Description: Project Plan for Red 205 Si
+Template: section
+Toc: chapter
 ---
 
 # Red 205 Si Restoration Plan

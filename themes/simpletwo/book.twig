@@ -35,6 +35,15 @@
 			   {% endif  %}
 			{% endfor %}
 
+                        {% for page in pages %}
+                           {% if page.meta.toc  == "project" %}
+                                <li{% if page.id == current_page.id %} id="active"{% endif %}>
+                                  <a href="{{ page.url }}">{{ page.title }} {% if page.id == current_page.id %} &laquo; {% endif %}</a>
+                                </li>
+                           {% endif  %}
+                        {% endfor %}
+
+
 		<hr color="#ccc" width="20%" align="right">
                         {% for page in pages %}
                            {% if page.meta.toc  == "appendix" %}

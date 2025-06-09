@@ -2,7 +2,7 @@
 Title: Projects
 Description: Projects
 Template: section
-Toc: section
+Toc: project
 
 ---
 
@@ -16,7 +16,7 @@ I’m restoring and modifying three Peugeot 205 Si models, each with a different
 - XU7 + ZF 4HP14 swap from Peugeot 306  
 - Monopoint EFI retained for reliability  
 - Brake upgrade and 14" wheels  
-👉 [Read More](red-205-plan)
+👉 [Read More](projects/red-205-plan)
 
 ---
 
@@ -24,7 +24,7 @@ I’m restoring and modifying three Peugeot 205 Si models, each with a different
 - Stripped out, lightweight track car  
 - Safety gear and handling upgrades  
 🚧 *Page under construction*  
-👉 [Read More](white-205-plan)
+👉 [Read More](projects/white-205-plan)
 
 ---
 
@@ -32,4 +32,4 @@ I’m restoring and modifying three Peugeot 205 Si models, each with a different
 - XU10J4 16V swap with full rebuild  
 - Suspension, brakes, and custom interior  
 🚧 *Page under construction*  
-👉 [Read More](blue-205-plan)
+👉 [Read More](projects/blue-205-plan)

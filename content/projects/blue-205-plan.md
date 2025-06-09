@@ -1,6 +1,8 @@
 ---
-Title: Blue 205 Si — High-Performance Conversion
-Order: 3
+Title: Blue 205 Si — High-Performance
+Description: Project Plan for Blue 205 Si
+Template: section
+Toc: chapter
 ---
 
 # Blue 205 Si XU10J4 Build

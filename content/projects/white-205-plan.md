@@ -1,6 +1,8 @@
 ---
-Title: White 205 Si — Entry-Level Motorsport Build
-Order: 2
+Title: White 205 Si — Entry-Level Motorsport 
+Description: Project Plan for White 205 Si
+Template: section
+Toc: chapter
 ---
 
 # White 205 Si Motorsport Project

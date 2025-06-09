@@ -1,6 +1,9 @@
 ---
 Title: Projects
-Order: 10
+Description: Projects
+Template: section
+Toc: section
+
 ---
 
 # Peugeot 205 Si Project Overview

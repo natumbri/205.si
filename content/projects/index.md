@@ -12,7 +12,7 @@ I’m restoring and modifying three Peugeot 205 Si models, each with a different
 
 ---
 
-## 🔴 Red 205 Si — Reliable Auto Runabout
+## [](%assets_url%/205si-red-trans.png){.halfsmall} Red 205 Si — Reliable Auto Runabout
 - XU7 + ZF 4HP14 swap from Peugeot 306  
 - Monopoint EFI retained for reliability  
 - Brake upgrade and 14" wheels  
